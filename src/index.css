@@ -1,0 +1,14 @@
+.mainContainer {
+  width: 100vw;
+  height: 100vh;
+  min-height: auto;
+
+}
+ .mainContainer .header,.exeperience,.designation,.skills,.hobbies{
+ 
+border-bottom: 3px solid rgb(84, 81, 81);
+}
+
+.header{
+  padding-bottom: 5px;
+}
